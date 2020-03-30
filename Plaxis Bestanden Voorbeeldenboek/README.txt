@@ -1,4 +1,4 @@
-Dit zijn de PLAXIS bestanden die zijn gebruikt bij het opstellen van versie 1.1 van de POVM Publicatie 'Eindige Elementen Toepassing binnen het ontwerp, Aanwijzingen en Voorbeelden' (juli 2019).
+Dit zijn de PLAXIS bestanden die zijn gebruikt bij het opstellen van versie 1.1 van de POVM Publicatie 'Eindige Elementen Toepassing binnen het Ontwerp, Aanwijzingen en Voorbeelden' (juli 2019).
 
 Opmerkingen:
 
